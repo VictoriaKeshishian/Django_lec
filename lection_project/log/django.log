@@ -1,0 +1,571 @@
+Watching for file changes with StatReloader
+/home/victoria/PycharmProjects/Django_GB/lection_project/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/victoria/PycharmProjects/Django_GB/lection_project/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/victoria/PycharmProjects/Django_GB/lection_project/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/victoria/PycharmProjects/Django_GB/lection_project/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/victoria/PycharmProjects/Django_GB/lection_project/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/victoria/PycharmProjects/Django_GB/lection_project/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/settings.py changed, reloading.
+INFO 2024-03-04 16:00:50,991 autoreload 6567 139620813369344 Watching for file changes with StatReloader
+INFO 2024-03-04 16:00:57,046 basehttp 6567 139620766033472 "GET / HTTP/1.1" 200 11
+INFO 2024-03-04 16:02:10,301 basehttp 6567 139620766033472 "GET / HTTP/1.1" 200 11
+WARNING 2024-03-04 16:02:10,409 log 6567 139620766033472 Not Found: /favicon.ico
+INFO 2024-03-07 13:29:31,518 autoreload 4251 140431151706112 Watching for file changes with StatReloader
+INFO 2024-03-07 14:01:36,491 autoreload 4122 139705726296064 Watching for file changes with StatReloader
+INFO 2024-03-11 17:00:42,334 autoreload 4582 139793179389952 Watching for file changes with StatReloader
+INFO 2024-03-11 17:00:45,567 basehttp 4582 139793059018304 "GET / HTTP/1.1" 200 11
+WARNING 2024-03-11 17:00:45,679 log 4582 139793059018304 Not Found: /favicon.ico
+INFO 2024-03-11 17:01:20,740 autoreload 4582 139793179389952 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/urls.py changed, reloading.
+INFO 2024-03-11 17:01:20,998 autoreload 4941 140243592769536 Watching for file changes with StatReloader
+INFO 2024-03-11 17:01:22,658 basehttp 4941 140243539850816 "GET / HTTP/1.1" 200 11
+WARNING 2024-03-11 17:01:30,883 log 4941 140243539850816 Not Found: /les3
+WARNING 2024-03-11 17:01:30,883 basehttp 4941 140243539850816 "GET /les3 HTTP/1.1" 404 2531
+INFO 2024-03-11 17:02:01,946 basehttp 4941 140243539850816 "GET /les3/hello HTTP/1.1" 301 0
+INFO 2024-03-11 17:02:01,950 basehttp 4941 140243539850816 "GET /les3/hello/ HTTP/1.1" 200 26
+INFO 2024-03-11 17:05:55,806 autoreload 4941 140243592769536 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/urls.py changed, reloading.
+INFO 2024-03-11 17:05:56,060 autoreload 5099 139663722713088 Watching for file changes with StatReloader
+INFO 2024-03-11 17:06:09,234 autoreload 5099 139663722713088 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/urls.py changed, reloading.
+INFO 2024-03-11 17:06:09,471 autoreload 5114 140244026982400 Watching for file changes with StatReloader
+INFO 2024-03-11 17:18:35,393 autoreload 5114 140244026982400 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:18:35,653 autoreload 5225 139648862822400 Watching for file changes with StatReloader
+INFO 2024-03-11 17:20:48,614 autoreload 5225 139648862822400 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:20:48,863 autoreload 5305 140043047616512 Watching for file changes with StatReloader
+INFO 2024-03-11 17:21:22,227 autoreload 5305 140043047616512 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:21:22,470 autoreload 5360 140657962942464 Watching for file changes with StatReloader
+INFO 2024-03-11 17:21:56,811 autoreload 5360 140657962942464 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:21:57,060 autoreload 5387 140191361650688 Watching for file changes with StatReloader
+INFO 2024-03-11 17:22:09,236 autoreload 5387 140191361650688 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:22:09,505 autoreload 5405 140238233460736 Watching for file changes with StatReloader
+INFO 2024-03-11 17:22:29,740 autoreload 5405 140238233460736 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:22:29,991 autoreload 5457 140362145902592 Watching for file changes with StatReloader
+INFO 2024-03-11 17:24:54,029 autoreload 5457 140362145902592 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:24:54,291 autoreload 5770 139978976698368 Watching for file changes with StatReloader
+INFO 2024-03-11 17:28:49,944 autoreload 5770 139978976698368 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/urls.py changed, reloading.
+INFO 2024-03-11 17:28:50,138 autoreload 5853 140545496510464 Watching for file changes with StatReloader
+INFO 2024-03-11 17:28:51,374 basehttp 5853 140545443755584 "GET / HTTP/1.1" 200 11
+INFO 2024-03-11 17:29:28,766 basehttp 5853 140545443755584 "GET /les3/posts/2022/6 HTTP/1.1" 301 0
+INFO 2024-03-11 17:29:28,772 basehttp 5853 140545443755584 "GET /les3/posts/2022/6/ HTTP/1.1" 200 27
+INFO 2024-03-11 17:37:32,698 autoreload 5853 140545496510464 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:37:32,934 autoreload 6172 139987010195456 Watching for file changes with StatReloader
+INFO 2024-03-11 17:37:42,131 autoreload 6172 139987010195456 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:37:42,376 autoreload 6191 139702798254080 Watching for file changes with StatReloader
+INFO 2024-03-11 17:37:53,577 autoreload 6191 139702798254080 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:37:53,832 autoreload 6206 140367578865664 Watching for file changes with StatReloader
+INFO 2024-03-11 17:38:39,289 autoreload 6206 140367578865664 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/urls.py changed, reloading.
+INFO 2024-03-11 17:38:39,558 autoreload 6250 139784058716160 Watching for file changes with StatReloader
+INFO 2024-03-11 17:41:18,478 basehttp 6250 139783934309952 "GET / HTTP/1.1" 200 11
+WARNING 2024-03-11 17:41:18,589 log 6250 139783934309952 Not Found: /favicon.ico
+INFO 2024-03-11 17:41:24,416 basehttp 6250 139783934309952 "GET /les3 HTTP/1.1" 301 0
+INFO 2024-03-11 17:41:24,429 basehttp 6250 139783934309952 "GET /les3/ HTTP/1.1" 200 175
+INFO 2024-03-11 17:48:23,053 autoreload 6250 139784058716160 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:48:23,313 autoreload 6881 139970001326080 Watching for file changes with StatReloader
+INFO 2024-03-11 17:48:38,545 autoreload 6881 139970001326080 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-11 17:48:38,770 autoreload 6897 140016896192512 Watching for file changes with StatReloader
+INFO 2024-03-11 17:49:08,107 autoreload 6897 140016896192512 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/urls.py changed, reloading.
+INFO 2024-03-11 17:49:08,377 autoreload 6951 140453118660608 Watching for file changes with StatReloader
+INFO 2024-03-11 17:55:26,481 basehttp 6951 140453065258560 "GET / HTTP/1.1" 200 11
+INFO 2024-03-11 17:55:33,380 basehttp 6951 140453065258560 "GET /les3/if HTTP/1.1" 301 0
+INFO 2024-03-11 17:55:33,388 basehttp 6951 140453065258560 "GET /les3/if/ HTTP/1.1" 200 354
+INFO 2024-03-12 17:42:52,653 autoreload 4624 140259545378816 Watching for file changes with StatReloader
+INFO 2024-03-12 17:42:55,100 basehttp 4624 140259491837504 "GET / HTTP/1.1" 200 11
+WARNING 2024-03-12 17:42:55,193 log 4624 140259491837504 Not Found: /favicon.ico
+WARNING 2024-03-12 17:43:02,200 log 4624 140259491837504 Not Found: /les3/for
+WARNING 2024-03-12 17:43:02,200 basehttp 4624 140259491837504 "GET /les3/for HTTP/1.1" 404 3758
+WARNING 2024-03-12 17:43:10,887 log 4624 140259491837504 Not Found: /les3/for/
+WARNING 2024-03-12 17:43:10,887 basehttp 4624 140259491837504 "GET /les3/for/ HTTP/1.1" 404 3761
+INFO 2024-03-12 17:44:35,466 autoreload 4624 140259545378816 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 17:44:35,689 autoreload 5041 140421868400640 Watching for file changes with StatReloader
+INFO 2024-03-12 17:44:36,836 basehttp 5041 140421741147712 "GET / HTTP/1.1" 200 11
+WARNING 2024-03-12 17:44:46,617 log 5041 140421741147712 Not Found: /les3/for
+WARNING 2024-03-12 17:44:46,617 basehttp 5041 140421741147712 "GET /les3/for HTTP/1.1" 404 3758
+INFO 2024-03-12 17:48:03,647 autoreload 5166 139955407855616 Watching for file changes with StatReloader
+INFO 2024-03-12 17:48:04,678 basehttp 5166 139955354465856 "GET / HTTP/1.1" 200 11
+WARNING 2024-03-12 17:48:16,108 log 5166 139955354465856 Not Found: /les3/for
+WARNING 2024-03-12 17:48:16,109 basehttp 5166 139955354465856 "GET /les3/for HTTP/1.1" 404 3758
+INFO 2024-03-12 17:49:34,327 autoreload 5166 139955407855616 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/urls.py changed, reloading.
+INFO 2024-03-12 17:49:34,572 autoreload 5349 140615742017536 Watching for file changes with StatReloader
+INFO 2024-03-12 17:49:35,593 basehttp 5349 140615618655808 "GET / HTTP/1.1" 200 11
+INFO 2024-03-12 17:49:44,491 basehttp 5349 140615618655808 "GET /les3/for HTTP/1.1" 301 0
+INFO 2024-03-12 17:49:44,501 basehttp 5349 140615618655808 "GET /les3/for/ HTTP/1.1" 200 843
+INFO 2024-03-12 18:03:15,811 autoreload 5349 140615742017536 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:03:16,059 autoreload 6318 140641961140224 Watching for file changes with StatReloader
+INFO 2024-03-12 18:03:31,280 autoreload 6318 140641961140224 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:03:31,514 autoreload 6368 140455659749376 Watching for file changes with StatReloader
+INFO 2024-03-12 18:03:35,628 autoreload 6368 140455659749376 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:03:35,874 autoreload 6384 140503873781760 Watching for file changes with StatReloader
+INFO 2024-03-12 18:03:43,005 autoreload 6384 140503873781760 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:03:43,214 autoreload 6408 140254511292416 Watching for file changes with StatReloader
+INFO 2024-03-12 18:03:48,331 autoreload 6408 140254511292416 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:03:48,572 autoreload 6424 140147419299840 Watching for file changes with StatReloader
+INFO 2024-03-12 18:03:52,710 autoreload 6424 140147419299840 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:03:52,954 autoreload 6441 140417002745856 Watching for file changes with StatReloader
+INFO 2024-03-12 18:04:00,132 autoreload 6441 140417002745856 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:04:00,381 autoreload 6465 140224929562624 Watching for file changes with StatReloader
+INFO 2024-03-12 18:04:24,694 autoreload 6465 140224929562624 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:04:24,934 autoreload 6533 140012328591360 Watching for file changes with StatReloader
+INFO 2024-03-12 18:04:31,090 autoreload 6533 140012328591360 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:04:31,308 autoreload 6550 139900932763648 Watching for file changes with StatReloader
+INFO 2024-03-12 18:04:37,469 autoreload 6550 139900932763648 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:04:37,713 autoreload 6573 139899538788352 Watching for file changes with StatReloader
+INFO 2024-03-12 18:04:41,865 autoreload 6573 139899538788352 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:04:42,113 autoreload 6590 139775424266240 Watching for file changes with StatReloader
+INFO 2024-03-12 18:04:46,319 autoreload 6590 139775424266240 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:04:46,558 autoreload 6603 140425379012608 Watching for file changes with StatReloader
+INFO 2024-03-12 18:05:01,785 autoreload 6603 140425379012608 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/views.py changed, reloading.
+INFO 2024-03-12 18:05:02,013 autoreload 6647 139924368236544 Watching for file changes with StatReloader
+INFO 2024-03-12 18:06:47,826 autoreload 6647 139924368236544 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/urls.py changed, reloading.
+INFO 2024-03-12 18:06:48,068 autoreload 6866 140059180814336 Watching for file changes with StatReloader
+INFO 2024-03-12 18:06:49,318 basehttp 6866 140059127838272 "GET / HTTP/1.1" 200 11
+WARNING 2024-03-12 18:06:49,410 log 6866 140059127838272 Not Found: /favicon.ico
+WARNING 2024-03-12 18:06:55,615 log 6866 140059127838272 Not Found: /index
+WARNING 2024-03-12 18:06:55,615 basehttp 6866 140059127838272 "GET /index HTTP/1.1" 404 2534
+INFO 2024-03-12 18:07:08,440 basehttp 6866 140059127838272 "GET /les3/index HTTP/1.1" 301 0
+INFO 2024-03-12 18:07:08,446 basehttp 6866 140059127838272 "GET /les3/index/ HTTP/1.1" 200 250
+INFO 2024-03-12 18:08:47,043 autoreload 6866 140059180814336 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/settings.py changed, reloading.
+INFO 2024-03-12 18:08:47,271 autoreload 7262 139745939980288 Watching for file changes with StatReloader
+INFO 2024-03-12 18:08:51,416 autoreload 7262 139745939980288 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/settings.py changed, reloading.
+INFO 2024-03-12 18:08:51,622 autoreload 7279 139771097202688 Watching for file changes with StatReloader
+INFO 2024-03-12 18:08:55,752 autoreload 7279 139771097202688 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/settings.py changed, reloading.
+INFO 2024-03-12 18:08:55,963 autoreload 7296 140285402669056 Watching for file changes with StatReloader
+INFO 2024-03-12 18:09:04,114 autoreload 7296 140285402669056 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/settings.py changed, reloading.
+INFO 2024-03-12 18:09:04,362 autoreload 7327 139923326095360 Watching for file changes with StatReloader
+INFO 2024-03-12 18:12:28,319 basehttp 7327 139923273283136 "GET / HTTP/1.1" 200 11
+WARNING 2024-03-12 18:12:28,416 log 7327 139923273283136 Not Found: /favicon.ico
+INFO 2024-03-12 18:12:37,103 basehttp 7327 139923273283136 "GET /les3/index/ HTTP/1.1" 200 310
+INFO 2024-03-12 18:14:10,417 autoreload 7327 139923326095360 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/urls.py changed, reloading.
+INFO 2024-03-12 18:14:10,619 autoreload 7888 140307635732480 Watching for file changes with StatReloader
+INFO 2024-03-12 18:14:35,890 autoreload 7888 140307635732480 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/urls.py changed, reloading.
+INFO 2024-03-12 18:14:36,112 autoreload 7958 140372942045184 Watching for file changes with StatReloader
+INFO 2024-03-12 18:14:43,224 autoreload 7958 140372942045184 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/urls.py changed, reloading.
+INFO 2024-03-12 18:14:43,459 autoreload 7982 140562230595584 Watching for file changes with StatReloader
+INFO 2024-03-12 18:15:26,867 autoreload 7982 140562230595584 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/urls.py changed, reloading.
+INFO 2024-03-12 18:15:27,079 autoreload 8042 139670406897664 Watching for file changes with StatReloader
+INFO 2024-03-12 18:15:39,272 autoreload 8042 139670406897664 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/urls.py changed, reloading.
+INFO 2024-03-12 18:15:39,494 autoreload 8088 140228846571520 Watching for file changes with StatReloader
+INFO 2024-03-12 18:16:11,871 basehttp 8088 140228793726528 "GET / HTTP/1.1" 200 310
+INFO 2024-03-13 16:53:09,381 autoreload 5303 140577874661376 Watching for file changes with StatReloader
+INFO 2024-03-13 16:53:12,894 basehttp 5303 140577821685312 "GET / HTTP/1.1" 200 310
+WARNING 2024-03-13 16:53:13,003 log 5303 140577821685312 Not Found: /favicon.ico
+INFO 2024-03-13 16:53:53,359 basehttp 5303 140577821685312 "GET /les3/author/5 HTTP/1.1" 301 0
+INFO 2024-03-13 16:53:53,374 basehttp 5303 140577821685312 "GET /les3/author/5/ HTTP/1.1" 200 1356
+INFO 2024-03-13 16:56:47,243 basehttp 5303 140577821685312 "GET / HTTP/1.1" 200 310
+INFO 2024-03-13 16:56:55,125 basehttp 5303 140577821685312 "GET /les3/author/5/ HTTP/1.1" 200 1448
+INFO 2024-03-13 16:57:25,337 basehttp 5303 140577821685312 "GET /les3/post/48/ HTTP/1.1" 200 709
+INFO 2024-03-17 10:13:34,201 autoreload 5816 140099985195008 Watching for file changes with StatReloader
+INFO 2024-03-17 10:13:37,422 basehttp 5816 140099932124736 "GET / HTTP/1.1" 200 310
+WARNING 2024-03-17 10:13:37,551 log 5816 140099932124736 Not Found: /favicon.ico
+INFO 2024-03-17 10:13:49,168 basehttp 5816 140099932124736 "GET /les4/user/add HTTP/1.1" 301 0
+INFO 2024-03-17 10:13:49,184 basehttp 5816 140099932124736 "GET /les4/user/add/ HTTP/1.1" 200 825
+ERROR 2024-03-17 10:15:50,089 log 5816 140099932124736 Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "/home/victoria/PycharmProjects/Django_GB/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/victoria/PycharmProjects/Django_GB/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "/home/victoria/PycharmProjects/Django_GB/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp4.views.user_form didn't return an HttpResponse object. It returned None instead.
+ERROR 2024-03-17 10:15:50,090 basehttp 5816 140099932124736 "POST /les4/user/add/ HTTP/1.1" 500 67555
+INFO 2024-03-17 10:23:15,964 autoreload 5816 140099985195008 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 10:23:16,192 autoreload 6446 139885868781568 Watching for file changes with StatReloader
+INFO 2024-03-17 10:23:24,983 basehttp 6446 139885742650944 "GET /les4/user/add/ HTTP/1.1" 200 825
+INFO 2024-03-17 10:23:39,291 basehttp 6446 139885742650944 "POST /les4/user/add/ HTTP/1.1" 200 868
+INFO 2024-03-17 10:27:48,522 autoreload 6446 139885868781568 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 10:27:48,796 autoreload 6586 140493087571968 Watching for file changes with StatReloader
+INFO 2024-03-17 10:28:06,100 autoreload 6586 140493087571968 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 10:28:06,319 autoreload 6617 140093325357056 Watching for file changes with StatReloader
+INFO 2024-03-17 10:28:52,807 autoreload 6617 140093325357056 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 10:28:53,084 autoreload 6690 139928530722816 Watching for file changes with StatReloader
+INFO 2024-03-17 10:44:07,157 autoreload 6690 139928530722816 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 10:44:07,371 autoreload 6845 140204121124864 Watching for file changes with StatReloader
+INFO 2024-03-17 10:44:29,672 autoreload 6845 140204121124864 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 10:44:29,925 autoreload 6858 140710098362368 Watching for file changes with StatReloader
+INFO 2024-03-17 10:48:39,859 autoreload 6858 140710098362368 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 10:48:40,115 autoreload 6915 140376529379328 Watching for file changes with StatReloader
+INFO 2024-03-17 10:48:51,320 autoreload 6915 140376529379328 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 10:48:51,533 autoreload 6935 139799384944640 Watching for file changes with StatReloader
+INFO 2024-03-17 10:50:54,556 autoreload 6935 139799384944640 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/urls.py changed, reloading.
+INFO 2024-03-17 10:50:54,785 autoreload 7032 139800836120576 Watching for file changes with StatReloader
+INFO 2024-03-17 10:51:02,944 autoreload 7032 139800836120576 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/urls.py changed, reloading.
+INFO 2024-03-17 10:51:03,239 autoreload 7056 139837796941824 Watching for file changes with StatReloader
+WARNING 2024-03-17 10:53:05,751 log 7056 139837744084544 Not Found: /les4/user/forms/
+WARNING 2024-03-17 10:53:05,751 basehttp 7056 139837744084544 "GET /les4/user/forms/ HTTP/1.1" 404 2808
+INFO 2024-03-17 10:53:22,580 basehttp 7056 139837744084544 "GET /les4/forms/ HTTP/1.1" 200 1513
+INFO 2024-03-17 10:54:53,480 basehttp 7056 139837744084544 "POST /les4/forms/ HTTP/1.1" 200 1589
+INFO 2024-03-17 11:06:06,292 autoreload 7056 139837796941824 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 11:06:06,634 autoreload 7328 139764895719424 Watching for file changes with StatReloader
+INFO 2024-03-17 11:06:22,834 autoreload 7328 139764895719424 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 11:06:23,078 autoreload 7365 139808452222976 Watching for file changes with StatReloader
+INFO 2024-03-17 11:07:10,540 autoreload 7365 139808452222976 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 11:07:10,839 autoreload 7528 140700977729536 Watching for file changes with StatReloader
+INFO 2024-03-17 11:07:38,160 autoreload 7528 140700977729536 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 11:07:38,435 autoreload 7556 139847270117376 Watching for file changes with StatReloader
+INFO 2024-03-17 11:08:11,814 autoreload 7556 139847270117376 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 11:08:12,073 autoreload 7611 140326547652608 Watching for file changes with StatReloader
+INFO 2024-03-17 11:10:34,169 autoreload 7611 140326547652608 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 11:10:34,424 autoreload 7647 140139583901696 Watching for file changes with StatReloader
+INFO 2024-03-17 11:11:07,843 autoreload 7647 140139583901696 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 11:11:08,127 autoreload 7686 140690355990528 Watching for file changes with StatReloader
+INFO 2024-03-17 11:14:26,764 autoreload 7686 140690355990528 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 11:14:27,025 autoreload 7741 139936678039552 Watching for file changes with StatReloader
+INFO 2024-03-17 11:14:35,251 autoreload 7741 139936678039552 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 11:14:35,585 autoreload 7770 140482025689088 Watching for file changes with StatReloader
+INFO 2024-03-17 11:14:40,470 basehttp 7770 140481972401728 "POST /les4/forms/ HTTP/1.1" 200 2288
+INFO 2024-03-17 11:19:40,930 autoreload 7770 140482025689088 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 11:19:41,201 autoreload 8070 139645401112576 Watching for file changes with StatReloader
+INFO 2024-03-17 11:23:21,602 autoreload 8070 139645401112576 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/models.py changed, reloading.
+INFO 2024-03-17 11:23:21,854 autoreload 8160 140372594040832 Watching for file changes with StatReloader
+INFO 2024-03-17 11:24:28,369 autoreload 8160 140372594040832 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/models.py changed, reloading.
+INFO 2024-03-17 11:24:28,622 autoreload 8183 139643950137344 Watching for file changes with StatReloader
+INFO 2024-03-17 11:32:22,186 autoreload 8570 140572148748288 Watching for file changes with StatReloader
+INFO 2024-03-17 11:32:39,840 basehttp 8570 140572095411776 "GET /les4/user/ HTTP/1.1" 200 864
+INFO 2024-03-17 11:34:30,487 basehttp 8570 140572095411776 "POST /les4/user/ HTTP/1.1" 200 1150
+INFO 2024-03-17 11:35:05,118 basehttp 8570 140572095411776 "POST /les4/user/ HTTP/1.1" 200 927
+INFO 2024-03-17 11:36:46,263 autoreload 8570 140572148748288 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 11:36:46,509 autoreload 9133 140500080033792 Watching for file changes with StatReloader
+INFO 2024-03-17 11:37:00,805 autoreload 9133 140500080033792 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/forms.py changed, reloading.
+INFO 2024-03-17 11:37:01,082 autoreload 9153 140138587303936 Watching for file changes with StatReloader
+INFO 2024-03-17 11:39:04,159 autoreload 9153 140138587303936 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/settings.py changed, reloading.
+INFO 2024-03-17 11:39:04,410 autoreload 9199 140392588087296 Watching for file changes with StatReloader
+INFO 2024-03-17 11:39:09,600 autoreload 9199 140392588087296 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/settings.py changed, reloading.
+INFO 2024-03-17 11:39:09,919 autoreload 9219 140052905156608 Watching for file changes with StatReloader
+INFO 2024-03-17 11:40:30,678 autoreload 9219 140052905156608 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 11:40:30,919 autoreload 9250 139927300050944 Watching for file changes with StatReloader
+INFO 2024-03-17 11:41:01,274 autoreload 9250 139927300050944 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 11:41:01,521 autoreload 9331 140092402757632 Watching for file changes with StatReloader
+INFO 2024-03-17 11:41:14,792 autoreload 9331 140092402757632 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 11:41:15,077 autoreload 9345 139671919439872 Watching for file changes with StatReloader
+INFO 2024-03-17 11:41:25,286 autoreload 9345 139671919439872 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 11:41:25,546 autoreload 9357 140611813957632 Watching for file changes with StatReloader
+INFO 2024-03-17 11:41:36,777 autoreload 9357 140611813957632 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 11:41:37,061 autoreload 9389 139878274584576 Watching for file changes with StatReloader
+INFO 2024-03-17 11:42:50,706 autoreload 9389 139878274584576 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/views.py changed, reloading.
+INFO 2024-03-17 11:42:50,953 autoreload 9412 140368638222336 Watching for file changes with StatReloader
+INFO 2024-03-17 11:43:12,272 autoreload 9412 140368638222336 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp4/urls.py changed, reloading.
+INFO 2024-03-17 11:43:12,540 autoreload 9463 139870761422848 Watching for file changes with StatReloader
+INFO 2024-03-17 11:45:08,766 basehttp 9463 139870638962240 "GET /les4/upload HTTP/1.1" 301 0
+INFO 2024-03-17 11:45:08,784 basehttp 9463 139870638962240 "GET /les4/upload/ HTTP/1.1" 200 636
+INFO 2024-03-17 11:46:21,946 basehttp 9463 139870638962240 "POST /les4/upload/ HTTP/1.1" 200 636
+INFO 2024-03-21 16:23:52,029 autoreload 3548 139854474461184 Watching for file changes with StatReloader
+INFO 2024-03-21 16:23:56,444 basehttp 3548 139854421685824 "GET / HTTP/1.1" 200 310
+WARNING 2024-03-21 16:23:56,556 log 3548 139854421685824 Not Found: /favicon.ico
+INFO 2024-03-21 16:24:21,973 basehttp 3548 139854421685824 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-21 16:24:21,993 basehttp 3548 139854421685824 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-03-21 16:24:22,029 basehttp 3548 139854421685824 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+INFO 2024-03-21 16:24:22,115 basehttp 3548 139854318917184 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2024-03-21 16:24:22,116 basehttp 3548 139854310524480 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-03-21 16:24:22,116 basehttp 3548 139854327309888 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-03-21 16:24:22,117 basehttp 3548 139854421685824 "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+INFO 2024-03-21 16:24:22,117 basehttp 3548 139854335702592 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+INFO 2024-03-21 16:24:22,118 basehttp 3548 139854318917184 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+INFO 2024-03-21 16:24:22,118 basehttp 3548 139854302131776 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-03-21 16:25:58,276 autoreload 3548 139854474461184 /home/victoria/PycharmProjects/Django_GB/lection_project/lection_project/settings.py changed, reloading.
+INFO 2024-03-21 16:25:58,531 autoreload 4459 140407000092672 Watching for file changes with StatReloader
+INFO 2024-03-21 16:26:29,016 basehttp 4459 140406945740352 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-03-21 16:33:32,719 autoreload 4578 140209978740736 Watching for file changes with StatReloader
+INFO 2024-03-21 16:33:37,182 basehttp 4578 140209924601408 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-03-21 16:33:45,101 basehttp 4578 140209924601408 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-03-21 16:33:45,113 basehttp 4578 140209924601408 "GET /admin/ HTTP/1.1" 200 5944
+INFO 2024-03-21 16:33:45,199 basehttp 4578 140209924601408 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-03-21 16:33:45,250 basehttp 4578 140209924601408 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-21 16:33:45,250 basehttp 4578 140209915160128 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-21 16:35:40,966 basehttp 4578 140209924601408 "GET /admin/auth/user/ HTTP/1.1" 200 11914
+INFO 2024-03-21 16:35:41,007 basehttp 4578 140209924601408 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+INFO 2024-03-21 16:35:41,010 basehttp 4578 140209897326144 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-21 16:35:41,012 basehttp 4578 140209897326144 "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+INFO 2024-03-21 16:35:41,012 basehttp 4578 140209888933440 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2024-03-21 16:35:41,014 basehttp 4578 140209888933440 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-03-21 16:35:41,014 basehttp 4578 140209542919744 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+INFO 2024-03-21 16:35:41,018 basehttp 4578 140209915160128 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-21 16:35:41,018 basehttp 4578 140209542919744 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-21 16:35:41,020 basehttp 4578 140209905718848 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2024-03-21 16:35:41,021 basehttp 4578 140209905718848 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-03-21 16:35:41,022 basehttp 4578 140209915160128 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2024-03-21 16:35:41,065 basehttp 4578 140209542919744 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-03-21 16:35:41,065 basehttp 4578 140209924601408 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-03-21 16:35:41,098 basehttp 4578 140209905718848 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-03-21 16:35:41,098 basehttp 4578 140209915160128 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-03-21 16:35:41,099 basehttp 4578 140209897326144 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-03-21 16:37:20,103 basehttp 4578 140209915160128 "GET /admin/auth/user/add/ HTTP/1.1" 200 11238
+INFO 2024-03-21 16:37:20,137 basehttp 4578 140209915160128 "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 2024-03-21 16:37:20,137 basehttp 4578 140209542919744 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-03-21 16:37:20,137 basehttp 4578 140209924601408 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-03-21 16:37:20,144 basehttp 4578 140209905718848 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-21 16:37:20,184 basehttp 4578 140209915160128 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+INFO 2024-03-21 16:37:33,352 basehttp 4578 140209915160128 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2024-03-21 16:37:33,384 basehttp 4578 140209915160128 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 24986
+INFO 2024-03-21 16:37:33,469 basehttp 4578 140209905718848 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2024-03-21 16:37:33,469 basehttp 4578 140209542919744 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-03-21 16:37:33,471 basehttp 4578 140209897326144 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15492
+INFO 2024-03-21 16:37:33,471 basehttp 4578 140209924601408 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-03-21 16:37:33,474 basehttp 4578 140209915160128 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-21 16:37:33,567 basehttp 4578 140209924601408 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-03-21 16:37:33,567 basehttp 4578 140209542919744 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-03-21 16:37:33,568 basehttp 4578 140209915160128 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-03-21 16:37:33,568 basehttp 4578 140209897326144 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-03-21 16:37:33,569 basehttp 4578 140209905718848 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-03-21 16:42:41,503 basehttp 4578 140209924601408 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-03-21 16:42:41,526 basehttp 4578 140209924601408 "GET /admin/auth/user/ HTTP/1.1" 200 12641
+INFO 2024-03-21 16:42:41,600 basehttp 4578 140209924601408 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-21 16:43:12,690 basehttp 4578 140209924601408 "GET /admin/auth/group/add/ HTTP/1.1" 200 14125
+INFO 2024-03-21 16:43:12,733 basehttp 4578 140209924601408 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-21 16:49:17,020 basehttp 4578 140209924601408 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2024-03-21 16:49:17,034 basehttp 4578 140209924601408 "GET /admin/auth/group/ HTTP/1.1" 200 9518
+INFO 2024-03-21 16:49:17,108 basehttp 4578 140209924601408 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-21 16:49:26,101 basehttp 4578 140209924601408 "GET /admin/auth/user/ HTTP/1.1" 200 12727
+INFO 2024-03-21 16:49:26,122 basehttp 4578 140209924601408 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-21 16:49:28,052 basehttp 4578 140209924601408 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 24765
+INFO 2024-03-21 16:49:28,075 basehttp 4578 140209915160128 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-21 16:49:54,312 basehttp 4578 140209924601408 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-03-21 16:49:54,339 basehttp 4578 140209924601408 "GET /admin/auth/user/ HTTP/1.1" 200 12947
+INFO 2024-03-21 16:49:54,416 basehttp 4578 140209915160128 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-21 16:50:09,707 basehttp 4578 140209924601408 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-03-21 16:50:11,499 basehttp 4578 140209924601408 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-03-21 16:50:11,506 basehttp 4578 140209924601408 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-03-21 16:50:23,043 basehttp 4578 140209924601408 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-03-21 16:50:23,053 basehttp 4578 140209924601408 "GET /admin/ HTTP/1.1" 200 4893
+INFO 2024-03-21 17:07:07,898 autoreload 4578 140209978740736 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/models.py changed, reloading.
+INFO 2024-03-21 17:07:08,187 autoreload 5028 139971326935040 Watching for file changes with StatReloader
+INFO 2024-03-21 17:08:34,020 autoreload 5028 139971326935040 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/models.py changed, reloading.
+INFO 2024-03-21 17:08:34,299 autoreload 5179 140525850845184 Watching for file changes with StatReloader
+INFO 2024-03-21 17:13:16,806 autoreload 5393 140409661698048 Watching for file changes with StatReloader
+INFO 2024-03-21 17:13:38,709 basehttp 5393 140409607026240 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-03-21 17:13:55,762 basehttp 5393 140409607026240 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-03-21 17:13:55,779 basehttp 5393 140409607026240 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-03-21 17:14:03,506 basehttp 5393 140409607026240 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-03-21 17:14:03,522 basehttp 5393 140409607026240 "GET /admin/ HTTP/1.1" 200 8576
+INFO 2024-03-21 17:15:47,138 autoreload 5393 140409661698048 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp3/admin.py changed, reloading.
+INFO 2024-03-21 17:15:47,341 autoreload 5492 140176208789504 Watching for file changes with StatReloader
+INFO 2024-03-21 17:17:30,920 autoreload 5637 140470911037440 Watching for file changes with StatReloader
+INFO 2024-03-21 17:17:34,260 basehttp 5637 140470789338688 "GET /admin/ HTTP/1.1" 200 9691
+INFO 2024-03-23 12:04:29,894 autoreload 13922 139834071162880 Watching for file changes with StatReloader
+INFO 2024-03-23 12:04:32,078 basehttp 13922 139834016396864 "GET / HTTP/1.1" 200 310
+WARNING 2024-03-23 12:04:32,196 log 13922 139834016396864 Not Found: /favicon.ico
+INFO 2024-03-23 12:04:37,478 basehttp 13922 139834016396864 "GET /admin/ HTTP/1.1" 200 9691
+INFO 2024-03-23 12:04:37,499 basehttp 13922 139834016396864 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2024-03-23 12:04:37,499 basehttp 13922 139833934607936 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2024-03-23 12:04:37,500 basehttp 13922 139833926215232 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2024-03-23 12:04:37,501 basehttp 13922 139833934607936 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2024-03-23 12:04:37,501 basehttp 13922 139833917822528 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2024-03-23 12:04:37,502 basehttp 13922 139833909429824 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2024-03-23 12:04:37,502 basehttp 13922 139833901037120 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2024-03-23 12:04:37,554 basehttp 13922 139833917822528 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-23 12:04:37,555 basehttp 13922 139833926215232 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-23 12:07:30,850 basehttp 13922 139833926215232 "GET /admin/myapp5/category/ HTTP/1.1" 200 9108
+INFO 2024-03-23 12:07:30,872 basehttp 13922 139833926215232 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2024-03-23 12:07:30,875 basehttp 13922 139834016396864 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-03-23 12:07:30,875 basehttp 13922 139833934607936 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-03-23 12:07:30,877 basehttp 13922 139833917822528 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-03-23 12:07:30,878 basehttp 13922 139834016396864 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-03-23 12:07:30,878 basehttp 13922 139833917822528 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-03-23 12:07:30,879 basehttp 13922 139833934607936 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-03-23 12:07:30,879 basehttp 13922 139833901037120 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-03-23 12:07:30,880 basehttp 13922 139833901037120 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-03-23 12:07:30,881 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:07:30,881 basehttp 13922 139833909429824 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-03-23 12:07:30,937 basehttp 13922 139833909429824 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-03-23 12:07:34,148 basehttp 13922 139833909429824 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 9949
+INFO 2024-03-23 12:07:34,166 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:07:34,168 basehttp 13922 139834016396864 "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 2024-03-23 12:07:34,169 basehttp 13922 139833934607936 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-03-23 12:07:34,169 basehttp 13922 139833917822528 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-03-23 12:07:34,172 basehttp 13922 139834016396864 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2024-03-23 12:07:50,970 basehttp 13922 139833909429824 "POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:07:50,992 basehttp 13922 139833909429824 "GET /admin/myapp5/category/ HTTP/1.1" 200 10847
+INFO 2024-03-23 12:07:51,059 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:07:51,127 basehttp 13922 139833909429824 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-03-23 12:07:54,468 basehttp 13922 139833909429824 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 9949
+INFO 2024-03-23 12:07:54,493 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:08:04,247 basehttp 13922 139833909429824 "POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:08:04,261 basehttp 13922 139833909429824 "GET /admin/myapp5/category/ HTTP/1.1" 200 11175
+INFO 2024-03-23 12:08:04,320 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:08:16,155 basehttp 13922 139833909429824 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 11818
+INFO 2024-03-23 12:08:16,174 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:08:16,215 basehttp 13922 139834016396864 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-03-23 12:08:35,319 basehttp 13922 139833909429824 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:08:35,334 basehttp 13922 139833909429824 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 12099
+INFO 2024-03-23 12:08:35,397 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:08:43,496 basehttp 13922 139833909429824 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:08:43,508 basehttp 13922 139833909429824 "GET /admin/myapp5/product/ HTTP/1.1" 200 11162
+INFO 2024-03-23 12:08:43,572 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:08:48,065 basehttp 13922 139833909429824 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 11818
+INFO 2024-03-23 12:08:48,084 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:09:06,745 basehttp 13922 139833909429824 "GET /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 4444
+INFO 2024-03-23 12:09:06,764 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:09:13,755 basehttp 13922 139833909429824 "POST /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 403
+INFO 2024-03-23 12:09:13,767 basehttp 13922 139833909429824 "GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+INFO 2024-03-23 12:09:25,822 basehttp 13922 139833909429824 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:09:25,832 basehttp 13922 139833909429824 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 12146
+INFO 2024-03-23 12:09:25,904 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:09:36,219 basehttp 13922 139833909429824 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:09:36,229 basehttp 13922 139833909429824 "GET /admin/myapp5/product/ HTTP/1.1" 200 11836
+INFO 2024-03-23 12:09:36,292 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:10:01,351 basehttp 13922 139833909429824 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 12079
+INFO 2024-03-23 12:10:01,371 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:10:02,918 basehttp 13922 139833909429824 "GET /admin/myapp5/product/1/delete/ HTTP/1.1" 200 9155
+INFO 2024-03-23 12:10:02,940 basehttp 13922 139833909429824 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2024-03-23 12:10:12,819 basehttp 13922 139833909429824 "POST /admin/myapp5/product/1/delete/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:10:12,829 basehttp 13922 139833909429824 "GET /admin/myapp5/product/ HTTP/1.1" 200 11456
+INFO 2024-03-23 12:10:12,892 basehttp 13922 139833909429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:14:40,931 autoreload 13922 139834071162880 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/models.py changed, reloading.
+INFO 2024-03-23 12:14:41,188 autoreload 14608 140602938867712 Watching for file changes with StatReloader
+INFO 2024-03-23 12:20:22,142 autoreload 14698 139864162336768 Watching for file changes with StatReloader
+INFO 2024-03-23 12:20:41,574 basehttp 14698 139864108430912 "GET /admin/myapp5/product/ HTTP/1.1" 200 11294
+INFO 2024-03-23 12:20:41,590 basehttp 14698 139864108430912 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:20:56,923 basehttp 14698 139864108430912 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 14635
+INFO 2024-03-23 12:20:56,946 basehttp 14698 139864108430912 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:21:45,082 basehttp 14698 139864108430912 "POST /admin/myapp5/product/4/change/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:21:45,096 basehttp 14698 139864108430912 "GET /admin/myapp5/product/ HTTP/1.1" 200 11512
+INFO 2024-03-23 12:21:45,154 basehttp 14698 139864108430912 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:23:12,194 autoreload 14698 139864162336768 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:23:12,458 autoreload 14764 140470325997568 Watching for file changes with StatReloader
+INFO 2024-03-23 12:24:18,859 autoreload 14764 140470325997568 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:24:19,080 autoreload 14789 140136255213568 Watching for file changes with StatReloader
+INFO 2024-03-23 12:24:30,171 basehttp 14789 140136125822528 "GET /admin/myapp5/product/ HTTP/1.1" 200 11832
+INFO 2024-03-23 12:24:30,186 basehttp 14789 140136125822528 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:24:59,225 basehttp 14789 140136125822528 "GET /admin/myapp5/product/?o=1 HTTP/1.1" 200 12240
+INFO 2024-03-23 12:24:59,252 basehttp 14789 140136125822528 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:24:59,322 basehttp 14789 140136117429824 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-03-23 12:25:01,886 basehttp 14789 140136125822528 "GET /admin/myapp5/product/?o=-1 HTTP/1.1" 200 12246
+INFO 2024-03-23 12:25:01,911 basehttp 14789 140136117429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:25:03,187 basehttp 14789 140136125822528 "GET /admin/myapp5/product/?o=1 HTTP/1.1" 200 12240
+INFO 2024-03-23 12:25:03,211 basehttp 14789 140136117429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:25:21,914 basehttp 14789 140136125822528 "GET /admin/myapp5/product/?o=2.1 HTTP/1.1" 200 12730
+INFO 2024-03-23 12:25:21,933 basehttp 14789 140136117429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:25:23,337 basehttp 14789 140136125822528 "GET /admin/myapp5/product/?o=3.2.1 HTTP/1.1" 200 13143
+INFO 2024-03-23 12:25:23,358 basehttp 14789 140136117429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:25:27,045 basehttp 14789 140136125822528 "GET /admin/myapp5/product/?o=2.1 HTTP/1.1" 200 12730
+INFO 2024-03-23 12:25:27,065 basehttp 14789 140136117429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:25:28,175 basehttp 14789 140136125822528 "GET /admin/myapp5/product/?o=1 HTTP/1.1" 200 12240
+INFO 2024-03-23 12:25:28,200 basehttp 14789 140136117429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:25:29,212 basehttp 14789 140136125822528 "GET /admin/myapp5/product/?o= HTTP/1.1" 200 11932
+INFO 2024-03-23 12:25:29,234 basehttp 14789 140136117429824 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:26:06,752 autoreload 14789 140136255213568 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:26:07,033 autoreload 14844 140427843919872 Watching for file changes with StatReloader
+INFO 2024-03-23 12:26:45,357 basehttp 14844 140427713836608 "GET /admin/myapp5/product/ HTTP/1.1" 200 12622
+INFO 2024-03-23 12:26:45,376 basehttp 14844 140427713836608 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:27:34,701 autoreload 14844 140427843919872 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:27:34,927 autoreload 14879 140014439276544 Watching for file changes with StatReloader
+INFO 2024-03-23 12:28:09,302 basehttp 14879 140014317991488 "GET /admin/myapp5/product/ HTTP/1.1" 200 14078
+INFO 2024-03-23 12:28:09,314 basehttp 14879 140014317991488 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:28:13,571 basehttp 14879 140014317991488 "GET /admin/myapp5/product/?date_added__gte=2024-03-16+00%3A00%3A00%2B00%3A00&date_added__lt=2024-03-24+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 15934
+INFO 2024-03-23 12:28:13,586 basehttp 14879 140014308550208 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:28:16,024 basehttp 14879 140014317991488 "GET /admin/myapp5/product/?date_added__gte=2024-03-01+00%3A00%3A00%2B00%3A00&date_added__lt=2024-04-01+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 15934
+INFO 2024-03-23 12:28:16,041 basehttp 14879 140014308550208 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:28:17,138 basehttp 14879 140014317991488 "GET /admin/myapp5/product/?date_added__gte=2024-01-01+00%3A00%3A00%2B00%3A00&date_added__lt=2025-01-01+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 15934
+INFO 2024-03-23 12:28:17,154 basehttp 14879 140014308550208 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:28:18,238 basehttp 14879 140014317991488 "GET /admin/myapp5/product/? HTTP/1.1" 200 14078
+INFO 2024-03-23 12:28:18,251 basehttp 14879 140014308550208 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:28:20,268 basehttp 14879 140014317991488 "GET /admin/myapp5/product/?date_added__gte=2024-03-23+00%3A00%3A00%2B00%3A00&date_added__lt=2024-03-24+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 15934
+INFO 2024-03-23 12:28:20,281 basehttp 14879 140014308550208 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:28:22,948 basehttp 14879 140014317991488 "GET /admin/myapp5/product/?date_added__gte=2024-03-23+00%3A00%3A00%2B00%3A00&date_added__lt=2024-03-24+00%3A00%3A00%2B00%3A00&price=150.00 HTTP/1.1" 200 15061
+INFO 2024-03-23 12:28:22,966 basehttp 14879 140014308550208 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:28:24,425 basehttp 14879 140014317991488 "GET /admin/myapp5/product/?date_added__gte=2024-03-23+00%3A00%3A00%2B00%3A00&date_added__lt=2024-03-24+00%3A00%3A00%2B00%3A00&price=999999.99 HTTP/1.1" 200 15685
+INFO 2024-03-23 12:28:24,439 basehttp 14879 140014308550208 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:28:25,882 basehttp 14879 140014317991488 "GET /admin/myapp5/product/?date_added__gte=2024-03-23+00%3A00%3A00%2B00%3A00&date_added__lt=2024-03-24+00%3A00%3A00%2B00%3A00&price=150.00 HTTP/1.1" 200 15061
+INFO 2024-03-23 12:28:25,900 basehttp 14879 140014308550208 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:30:13,867 autoreload 14879 140014439276544 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:30:14,152 autoreload 14962 140198804291584 Watching for file changes with StatReloader
+INFO 2024-03-23 12:30:37,347 basehttp 14962 140198749926976 "GET /admin/myapp5/product/?date_added__gte=2024-03-23+00%3A00%3A00%2B00%3A00&date_added__lt=2024-03-24+00%3A00%3A00%2B00%3A00&price=150.00 HTTP/1.1" 200 15881
+INFO 2024-03-23 12:30:37,361 basehttp 14962 140198749926976 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:30:37,405 basehttp 14962 140198671283776 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-03-23 12:30:47,263 basehttp 14962 140198749926976 "GET /admin/myapp5/product/?date_added__gte=2024-03-23+00%3A00%3A00%2B00%3A00&date_added__lt=2024-03-24+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 16609
+INFO 2024-03-23 12:30:47,279 basehttp 14962 140198671283776 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:30:48,752 basehttp 14962 140198749926976 "GET /admin/myapp5/product/? HTTP/1.1" 200 14586
+INFO 2024-03-23 12:30:48,771 basehttp 14962 140198671283776 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:31:03,946 basehttp 14962 140198749926976 "GET /admin/myapp5/product/?q=%D1%82%D0%B2%D0%BE%D1%80%D0%BE%D0%B3 HTTP/1.1" 200 12275
+INFO 2024-03-23 12:31:03,962 basehttp 14962 140198671283776 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:31:12,448 basehttp 14962 140198749926976 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 14794
+INFO 2024-03-23 12:31:12,466 basehttp 14962 140198671283776 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:32:07,390 basehttp 14962 140198749926976 "GET /admin/myapp5/product/3/change/?_changelist_filters=q%3D HTTP/1.1" 200 14696
+INFO 2024-03-23 12:32:07,406 basehttp 14962 140198671283776 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:32:14,844 basehttp 14962 140198749926976 "POST /admin/myapp5/product/3/change/?_changelist_filters=q%3D HTTP/1.1" 302 0
+INFO 2024-03-23 12:32:14,865 basehttp 14962 140198671283776 "GET /admin/myapp5/product/ HTTP/1.1" 200 14798
+INFO 2024-03-23 12:32:14,880 basehttp 14962 140198671283776 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:32:19,022 basehttp 14962 140198749926976 "GET /admin/myapp5/product/?q=%D1%82%D0%BE%D1%80%D1%82 HTTP/1.1" 200 14467
+INFO 2024-03-23 12:32:19,037 basehttp 14962 140198671283776 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:34:18,438 autoreload 14962 140198804291584 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:34:18,671 autoreload 15066 140246072938496 Watching for file changes with StatReloader
+INFO 2024-03-23 12:35:46,185 autoreload 15066 140246072938496 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:35:46,414 autoreload 15117 139910519910400 Watching for file changes with StatReloader
+INFO 2024-03-23 12:35:52,561 autoreload 15117 139910519910400 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:35:52,807 autoreload 15140 140448694624256 Watching for file changes with StatReloader
+INFO 2024-03-23 12:36:17,983 basehttp 15140 140448640267840 "GET /admin/myapp5/product/?q=%D1%82%D0%BE%D1%80%D1%82 HTTP/1.1" 200 14560
+INFO 2024-03-23 12:36:17,994 basehttp 15140 140448640267840 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:36:34,201 basehttp 15140 140448640267840 "GET /admin/myapp5/product/ HTTP/1.1" 200 14679
+INFO 2024-03-23 12:36:34,214 basehttp 15140 140448640267840 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:36:56,579 basehttp 15140 140448640267840 "POST /admin/myapp5/product/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:36:56,597 basehttp 15140 140448640267840 "GET /admin/myapp5/product/ HTTP/1.1" 200 14679
+INFO 2024-03-23 12:36:56,649 basehttp 15140 140448640267840 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:40:08,117 autoreload 15140 140448694624256 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:40:08,405 autoreload 15248 140278144294912 Watching for file changes with StatReloader
+INFO 2024-03-23 12:41:09,939 basehttp 15248 140278090430016 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 13852
+INFO 2024-03-23 12:41:09,955 basehttp 15248 140278090430016 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:42:50,327 autoreload 15248 140278144294912 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:42:50,573 autoreload 15322 139727124881408 Watching for file changes with StatReloader
+INFO 2024-03-23 12:43:35,884 autoreload 15322 139727124881408 /home/victoria/PycharmProjects/Django_GB/lection_project/myapp5/admin.py changed, reloading.
+INFO 2024-03-23 12:43:36,109 autoreload 15416 139698536742912 Watching for file changes with StatReloader
+INFO 2024-03-23 12:45:15,469 basehttp 15416 139698482705984 "GET /admin/myapp5/product/ HTTP/1.1" 200 14679
+INFO 2024-03-23 12:45:15,484 basehttp 15416 139698482705984 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:45:17,023 basehttp 15416 139698482705984 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 15758
+INFO 2024-03-23 12:45:17,039 basehttp 15416 139698482705984 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2024-03-23 12:45:17,041 basehttp 15416 139698473264704 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:45:34,144 basehttp 15416 139698473264704 "POST /admin/myapp5/product/2/change/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:45:34,158 basehttp 15416 139698482705984 "GET /admin/myapp5/product/ HTTP/1.1" 200 14951
+INFO 2024-03-23 12:45:34,172 basehttp 15416 139698473264704 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:45:35,591 basehttp 15416 139698482705984 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 15755
+INFO 2024-03-23 12:45:35,605 basehttp 15416 139698473264704 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:45:49,687 basehttp 15416 139698482705984 "POST /admin/myapp5/product/2/change/ HTTP/1.1" 302 0
+INFO 2024-03-23 12:45:49,706 basehttp 15416 139698473264704 "GET /admin/myapp5/product/ HTTP/1.1" 200 14951
+INFO 2024-03-23 12:45:49,721 basehttp 15416 139698473264704 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-23 12:45:51,075 basehttp 15416 139698482705984 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 15792
+INFO 2024-03-23 12:45:51,092 basehttp 15416 139698473264704 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-24 15:27:50,474 autoreload 4448 139899053346816 Watching for file changes with StatReloader
+INFO 2024-03-24 15:28:15,029 basehttp 4448 139898996651584 "GET / HTTP/1.1" 200 10499
+INFO 2024-03-24 15:28:15,160 basehttp 4448 139898996651584 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2024-03-24 15:28:15,160 basehttp 4448 139898987210304 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 2024-03-24 15:28:15,217 basehttp 4448 139898996651584 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-03-24 15:28:15,219 basehttp 4448 139898978817600 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING 2024-03-24 15:28:15,228 log 4448 139898987210304 Not Found: /favicon.ico
+INFO 2024-03-24 15:29:09,217 basehttp 4448 139898996651584 "GET /__debug__/render_panel/?store_id=848081a004eb4bce85e970cfbd55d872&panel_id=HistoryPanel HTTP/1.1" 200 4150
+INFO 2024-03-24 15:29:09,221 basehttp 4448 139898978817600 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3515
+INFO 2024-03-24 15:29:14,205 basehttp 4448 139898996651584 "GET /__debug__/render_panel/?store_id=848081a004eb4bce85e970cfbd55d872&panel_id=TimerPanel HTTP/1.1" 200 2263
+INFO 2024-03-24 15:29:14,208 basehttp 4448 139898978817600 "GET /static/debug_toolbar/js/timer.js HTTP/1.1" 200 3686
+INFO 2024-03-24 15:29:19,277 basehttp 4448 139898996651584 "GET /__debug__/render_panel/?store_id=848081a004eb4bce85e970cfbd55d872&panel_id=SettingsPanel HTTP/1.1" 200 26831
+INFO 2024-03-24 15:29:47,020 basehttp 4448 139898996651584 "GET /__debug__/render_panel/?store_id=848081a004eb4bce85e970cfbd55d872&panel_id=HeadersPanel HTTP/1.1" 200 4775
+INFO 2024-03-24 15:30:46,304 basehttp 4448 139898996651584 "GET /__debug__/render_panel/?store_id=848081a004eb4bce85e970cfbd55d872&panel_id=SQLPanel HTTP/1.1" 200 428
+INFO 2024-03-24 15:31:18,774 basehttp 4448 139898996651584 "GET /__debug__/render_panel/?store_id=848081a004eb4bce85e970cfbd55d872&panel_id=StaticFilesPanel HTTP/1.1" 200 33268
+INFO 2024-03-24 15:31:47,813 basehttp 4448 139898996651584 "GET /__debug__/render_panel/?store_id=848081a004eb4bce85e970cfbd55d872&panel_id=TemplatesPanel HTTP/1.1" 200 6423
+INFO 2024-03-24 15:32:09,181 basehttp 4448 139898996651584 "GET /__debug__/render_panel/?store_id=848081a004eb4bce85e970cfbd55d872&panel_id=CachePanel HTTP/1.1" 200 1737
+INFO 2024-03-24 15:32:14,217 basehttp 4448 139898996651584 "GET /__debug__/render_panel/?store_id=848081a004eb4bce85e970cfbd55d872&panel_id=SignalsPanel HTTP/1.1" 200 2231
+WARNING 2024-03-24 15:33:58,227 log 4448 139898996651584 Not Found: /les4/user/1
+WARNING 2024-03-24 15:33:58,228 basehttp 4448 139898996651584 "GET /les4/user/1 HTTP/1.1" 404 13878
+INFO 2024-03-24 15:33:58,260 basehttp 4448 139898996651584 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-03-24 15:33:58,261 basehttp 4448 139898978817600 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-03-24 15:33:58,281 basehttp 4448 139898978817600 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-03-24 15:33:58,308 basehttp 4448 139898996651584 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-03-24 15:34:08,775 basehttp 4448 139898996651584 "GET /les4/user/add/ HTTP/1.1" 200 11491
+INFO 2024-03-24 15:34:14,531 basehttp 4448 139898996651584 "GET /__debug__/render_panel/?store_id=9a050ae29df5401f8d16d20cbb7ee637&panel_id=ProfilingPanel HTTP/1.1" 200 41053
+INFO 2024-03-24 16:13:04,245 autoreload 6174 139822612426752 Watching for file changes with StatReloader
+INFO 2024-03-24 16:13:11,791 basehttp 6174 139822556509760 "GET / HTTP/1.1" 200 10942
+INFO 2024-03-24 16:13:11,814 basehttp 6174 139822556509760 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-03-24 16:13:11,818 basehttp 6174 139822546019904 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-03-24 16:13:11,827 basehttp 6174 139822546019904 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-03-24 16:13:11,858 basehttp 6174 139822556509760 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-03-24 16:13:53,919 basehttp 6174 139822556509760 "GET /les6/db HTTP/1.1" 200 11239
+INFO 2024-03-24 16:13:53,953 basehttp 6174 139822546019904 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 200 48
+INFO 2024-03-24 16:14:00,019 basehttp 6174 139822546019904 "GET /les6/db/ HTTP/1.1" 200 11053
+INFO 2024-03-24 16:15:37,561 basehttp 6174 139822546019904 "GET /les6/view/ HTTP/1.1" 200 11038
+INFO 2024-03-24 16:16:04,092 basehttp 6174 139822546019904 "GET /__debug__/render_panel/?store_id=b3e3410aadbe49ad880d742638c02349&panel_id=RequestPanel HTTP/1.1" 200 1828
+INFO 2024-03-24 16:16:19,111 basehttp 6174 139822546019904 "GET /__debug__/render_panel/?store_id=b3e3410aadbe49ad880d742638c02349&panel_id=SQLPanel HTTP/1.1" 200 6338
+INFO 2024-03-24 16:17:03,649 basehttp 6174 139822546019904 "GET /__debug__/render_panel/?store_id=b3e3410aadbe49ad880d742638c02349&panel_id=ProfilingPanel HTTP/1.1" 200 34414
+INFO 2024-03-24 16:17:45,331 basehttp 6174 139822546019904 "GET /les6/template/ HTTP/1.1" 200 11030
+INFO 2024-03-24 16:17:50,954 basehttp 6174 139822546019904 "GET /__debug__/render_panel/?store_id=2eee4a0725cc445dad42c11c3a894a03&panel_id=ProfilingPanel HTTP/1.1" 200 32672
+INFO 2024-03-24 16:18:16,504 basehttp 6174 139822546019904 "GET /__debug__/render_panel/?store_id=2eee4a0725cc445dad42c11c3a894a03&panel_id=RequestPanel HTTP/1.1" 200 1836
+INFO 2024-03-24 16:18:18,302 basehttp 6174 139822546019904 "GET /__debug__/render_panel/?store_id=2eee4a0725cc445dad42c11c3a894a03&panel_id=SQLPanel HTTP/1.1" 200 23361
